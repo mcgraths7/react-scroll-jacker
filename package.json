@@ -20,7 +20,7 @@
     "react": "16.x"
   },
   "dependencies": {
-    "stickybits": "^2.1.1"
+    "stickybits": "^3.7.7"
   },
   "devDependencies": {
     "@types/react": "^16.0.34",
